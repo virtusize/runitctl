@@ -7,10 +7,10 @@ It would be nice if we could have [runit](http://smarden.org/runit/) supervisor 
 
 ## Status
 * ~~start/stop~~
-* restart
-* status
+* ~~restart~~
+* ~~status~~
 * avail
-* reread
-* update
+* ~~reread~~
+* update (?)
 * signal 
 * add/remove
