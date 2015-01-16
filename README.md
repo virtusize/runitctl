@@ -14,3 +14,6 @@ It would be nice if we could have [runit](http://smarden.org/runit/) supervisor 
 * update (?)
 * signal 
 * add/remove
+
+## Everyone Loves Screenshots
+[![Screenshot](https://raw.githubusercontent.com/virtusize/runitctl/screenshot/images/screenshot.png)](#screenshot)
